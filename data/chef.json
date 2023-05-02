@@ -1,0 +1,96 @@
+[
+    {
+        "id": "1",
+        "category_id": "1",
+        "chef_photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRA0CKu5U3zWZSyBLoNdt9dO8LRlbowZLroyjqxqRvkDQynvCj",
+        "chef_name": "Vinesh Johny",
+        "experience": "8",
+        "likes": "200",
+        "bio": "He co-founded India's first pastry and baking academy in Bangalore at the age of 24, a time when most pastry chefs are lining up internships or honing their skills by working at a succession of restaurants.  Since then, pastry chef and entrepreneur Vinesh Johny has continued his quest to elevate his country's pastry scene, a mission that was validated when India scored a surprise silver medal in the global WorldSkills competition in 2017. Chef Johny has appeared on the first-ever 'Forbes 30 Under 30 Asia' list in the Arts category, and was chosen by the Government of India to be the Chief Expert for WorldSkills International, in charge of the pastry part of the competition for the entire world.",
+        "recipes": [
+            {
+                "name": "Fudgy Chocolate Brownie",
+                "picture": "https://img.taste.com.au/kdMbjArS/taste/2010/01/chocolate-brownies-118925-2.jpg",
+                "ingredients": [
+                    "All purpose flour",
+                    "Butter",
+                    "Brown Sugar",
+                    "Chocolate chips",
+                    "Egg",
+                    "Cocoa powder",
+                    "Salt",
+                    "Vanilla Extract"
+                ],
+                "method": [
+                    "In a double boiler melt the butter and chocolate chips at low flame",
+                    "Sift flour, cocoa powder and salt together",
+                    "In a bowl, add egg yolk, eggs, brown sugar and vanilla extract. Beat for 2 minutes",
+                    "Add the chocolate and butter mix.",
+                    "Now add the dry mixture and fold it. Add the remaining chocolate chips and give it a mix",
+                    "Line a square pan with baking paper. Pour the mixture into it. Bake at 170 degree Celsius for 25-30 minutes till you get a nice crinkly on top ",
+                    "Take it out from the oven and let the brownies cool down for about 15-20 minutes. Transfer to a plate and cut into slices. It can be served with vanilla icecream on top. "
+                ],
+                "rating": "5"
+            },
+            {
+                "name": "Caramel Babka",
+                "picture": "https://www.bomshbee.com/wp-content/uploads/2021/10/Caramel-Babka-Recipe-1-1024x1024.jpg",
+                "ingredients": [
+                    "all-purpose flour",
+                    "granulated sugar",
+                    "fresh yeast",
+                    "butter",
+                    "eggs",
+                    "honey",
+                    "heavy cream",
+                    "milk chocolate",
+                    "corn syrup",
+                    "salt"
+                ],
+                "method": [
+                    "Mix the dough ingredients in a stand mixer or bowl. Knead dough for 8 minutes at medium speed, or until it no longer sticks to the sides of the bowl.",
+                    "Perform a “window-pane” test. Take a small, flattened piece of dough, and gently spread it apart. If the dough forms a thin, translucent membrane without tearing, then the gluten is perfectly developed. If a clear “window” doesn't form, keep for another minute or two and check again. Make sure that the dough temperature stays between 68-75ºF for optimal flavor and rise.",
+                    "Place dough on a flour-dusted surface. Roll into a 8 x 6 in rectangle, about 2/5 inch thick.",
+                    "For the caramel, start by combining honey and cream in a saucepan",
+                    "In a separate saucepan, heat sugar and stir continuously until it caramelizes to a deep amber color. Add softened butter to help deglaze.",
+                    "Pour caramel mixture into a bowl with chopped milk chocolate so they melt.",
+                    "Add sea salt, then mix using a hand blender, if possible, to create a smooth emulsion.",
+                    "For the ganache, bring corn syrup and cream to a simmer in a saucepan.",
+                    "To assemble, spread a layer of ganache onto the dough, leaving about an inch from the edges.",
+                    "Roll the dough along its longer side into a log. Wrap in cling wrap and freeze for an hour so that the dough is firmer.",
+                    "Once the dough has been proofed, brush a layer of milk over the surface and sprinkle with moist almond flakes.",
+                    "Bake in a preheated oven at 392°F for 35-40 minutes, until golden brown."
+                ],
+                "rating": "3"
+            },
+            {
+                "name": "Rice Pudding Tart",
+                "picture": "https://www.sogoodmagazine.com/wp-content/uploads/2021/12/ricepudding-vineshlara-cov.jpg",
+                "ingredients": [
+                    "coconut cream",
+                    "corn syrup",
+                    "sugar",
+                    "white chocolate",
+                    "heavy cream",
+                    "pinch of salt",
+                    "all purpose flour",
+                    "almond flour",
+                    "eggs",
+                    "rice",
+                    "whole milk",
+                    "jaggery",
+                    "cardamom"
+                ],
+                "method": [
+                    "In a saucepan, heat 6 tablespoons (90 g) of coconut cream, the corn syrup and the invert sugar until the mixture is nice and warm. Then pour it out into a narrow container with the white chocolate, and emulsify well using a hand blender. Add in the last 6 tablespoons (90 g) of coconut cream along with the coconut rum, cream and salt, and continue to blend into a smooth ganache. Wrap in cling film and keep this in the refrigerator overnight for it to set perfectly.",
+                    "",
+                    "In a stand mixer with a paddle attachment, start by mixing the butter with salt and icing sugar. Gradually add in the egg a little at a time, making sure it's well combined. Next, fold in the all-purpose flour and almond flour, and gently mix everything into a nice dough. Place this between two sheets of baking paper and flatten slightly, before resting the dough in the refrigerator for 1 hour. Grease 8 rings with extra butter and place them on a tray lined with baking paper. If you don't have 8 rings you can bake these in batches. Place a disc inside each greased ring and press gently, starting from the bottom and working your way up the sides. If the edges are above the rim, carefully trim them with a small knife, then pop these in the refrigerator for 1 hour. Preheat the oven at 320°F (160°C) and bake for 20 to 25 minutes, until they turn a delicious golden brown.",
+                    "Start by blanching the rice: Take a bowl of water with about a teaspoon of salt dissolved in it, and submerge the rice into it, washing the grains and removing the starch until the water turns a pale white. Then pour out the starch water and add in fresh salt water, repeating the process a total of 3 times. Now that the rice is ready, add it to a saucepan along with the whole milk and vanilla, and cook it until the mixture starts to turn thick and creamy. Once it's done, turn off the heat and mix in the coconut milk and jaggery, then season the pudding with the lime zest, salt, cardamom and cinnamon to give it a warm, spiced flavor. Mix so everything combines well, and set it aside for later.",
+                    "Preheat the oven to 338°F (170°C). In a stand mixer with a paddle attachment, take the flour, butter, granulated sugar, salt and yeast and combine evenly. Add in the eggs a little at a time while mixing continuously, combining the ingredients into a thick, elastic dough. Once the dough is ready, it's time to fill it into 8 (1-oz [30-ml]) spherical molds. If you don't have 8 molds you can bake in batches. Fill them about halfway, then let them proof at room temperature for 15 minutes, until the dough has risen to just below the surface of the mold. Pop them in the oven for 15 minutes, until golden brown. After baking, allow them to cool and demold; you may notice some excess on the top of each sphere, which can be trimmed with a small knife to get a beautiful, rounded shape.",
+                    "Bring those baked tart shells out, and fill them completely with a generous helping of rice pudding. Whip the coconut ganache in a stand mixer with a whisk attachment until it's nice and fluffy, and using a piping bag with a large, round tip nozzle, form a neat dome of ganache over each tart. Finally, sprinkle pistachio powder and rose petals to finish the look."
+                ],
+                "rating": "4"
+            }
+        ]
+    }
+]
