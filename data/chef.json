@@ -351,5 +351,89 @@
                 "rating": "3"
             }
         ]
+    },
+    {
+        "id": "5",
+        "category_id": "1",
+        "chef_photo": "https://www.pankajbhadouria.com/wp-content/uploads/3-pb-profile-hospitality.jpg",
+        "chef_name": "Pankaj Bhadouria",
+        "experience": "12",
+        "likes": "300",
+        "bio": "Being India's first Masterchef was just the start of Pankaj Bhadouria's professional culinary career. Though the show made her a household name in the country, her charm and passion for cooking opened varied avenues around the world.",
+        "recipes": [
+            {
+                "name": "Karachi Halwa",
+                "picture": "https://www.pankajbhadouria.com/wp-content/uploads/Karachi-halwa.jpg",
+                "ingredients": [
+                    "Corn flour",
+                    "Water",
+                    "Sugar",
+                    "Lemon Juice",
+                    "Cardamom powder",
+                    "Few drops of color",
+                    "Ghee",
+                    "Chopped cashew nuts"
+                ],
+                "method": [
+                    "Add 500 ml water to the corn flour and mix well. Heat together the remaining water and sugar in a pan over medium flame. Stir until fully dissolved. Reduce the heat to minimum boil add the corn flour mixture. Stir well continuously. ",
+                    "When it starts to stick to the pan, add the lemon juice, colour and mix well.",
+                    "Add one part of the ghee and mix well.",
+                    "When all the ghee is incorporated, add in the second part of the ghee and mix in. Repeat till all the ghee is incorporated. ",
+                    "When all the ghee is incorporated and it has reached a halwa consistency and leaves the sides of the vessel, add in the chopped nuts and mix well.",
+                    "Cook till the entire mixture comes together like a ball.",
+                    "Transfer to a greased tray. Pat to spread well and evenly. Transfer to a greased tray. Pat to spread well and evenly. ",
+                    "Cut it into 2” squares and wrap each piece individually in cling wrap or butter paper."
+                ],
+                "rating": "3"
+            },
+            {
+                "name": "Gulab Jamun",
+                "picture": "https://www.pankajbhadouria.com/wp-content/uploads/Gulab-Jamun.jpg",
+                "ingredients": [
+                    "Milk (khoya)",
+                    "Cottage cheese",
+                    "Soda bicarconate",
+                    "Refined flour",
+                    "Green cardamom powder",
+                    "Sugar",
+                    "Water",
+                    "Ghee",
+                    "Lemon juice"
+                ],
+                "method": [
+                    "Grate khoya and mash cottage cheese. Mix the two along with soda bicarbonate, refined flour, green cardamom powder and knead well together to make a soft dough. (If required, add a liitle water to make a soft dough). ",
+                    "Divide into sixteen equal portions and shape into balls.",
+                    "Bring to boil the sugar with two cups of water. Add the lemon juice to clarify the syrup and remove any scum that may come on the surface. Simmer for 4-5 minutes to get a syrup of 1 string consistency.",
+                    "Heat about 3” deep ghee/oil in a pan. Add the balls and deep fry to hot and immediately reduce the heat to very low or remove from heat.",
+                    "Push with the back of a spoon to move the gulab jamuns in the pan.",
+                    "Return to heat on low heat till golden brown in color.",
+                    "Drain and set aside for 3-4 minutes. Soak in the hot sugar syrup for an hour before serving."
+                ],
+                "rating": "5"
+            },
+            {
+                "name": "Caramel Custard",
+                "picture": "https://www.pankajbhadouria.com/wp-content/uploads/Caramel-Custard.jpg",
+                "ingredients": [
+                    "Sugar",
+                    "Eggs, slightly beaten",
+                    "Sugar for making the caramel",
+                    "Vanilla Extract",
+                    "Warm Milk"
+                ],
+                "method": [
+                    "Heat 1/2 cup sugar in heavy saucepan until sugar is melted and turns golden brown. Immediately divide the sugar syrup among six ramekins. Tilt the ramekins to coat bottoms before the caramel hardens.",
+                    "Whisk together the eggs, 1/3 cup sugar, the vanilla in medium bowl.",
+                    "Gradually stir in milk.",
+                    "Divide the milk mixture over hardened caramel in the ramekins.",
+                    "Place ramekins in a 3” deep pan.",
+                    "Bake for about 45 minutes or until knife inserted near the centre comes out clean.",
+                    "Cover and refrigerate for at least 4 hours.",
+                    "To unmold, carefully loosen side of custard with a sharp knife. Place dessert dish or plate on top of cup and, holding tightly, turn dish and cup upside down.",
+                    "Shake cup gently to loosen custard. Caramel syrup will run down sides of custard, forming a sauce."
+                ],
+                "rating": "4"
+            }
+        ]
     }
 ]
