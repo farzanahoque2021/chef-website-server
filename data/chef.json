@@ -435,5 +435,86 @@
                 "rating": "4"
             }
         ]
+    },
+    {
+        "id": "6",
+        "category_id": "4",
+        "chef_photo": "https://www.anjumanand.co.uk/Content/Images/AyurvedaImage/AnjumImg2.jpg",
+        "chef_name": "Anjum Anand",
+        "experience": "10",
+        "likes": "350",
+        "bio": "Anjum Anand grew up in London but has also lived and studied in Geneva, Paris and Madrid. After gaining a European Business degree she decided to develop her interest in Indian cookery and, in particular, making her native food fresher, lighter and simpler to cook. She has worked across the world in innovative restaurants such as Café Spice in New York, the Mondrian Hotel in Los Angeles, and the Park Royal Hotel's Indian restaurant in New Delhi, but her real love is delicious and stylish food that is simple enough to cook at home. She challenges fiercely the assertion that Indian food is a special occasion meal and is determined to make 'cooking an Indian' as common as rustling up a stir-fry. ",
+        "recipes": [
+            {
+                "name": "Potato and Pea Samosa",
+                "picture": "https://www.anjumanand.co.uk/Content/Uploads/CookBookImage/1601153045_Potato-Pea-Samosas.jpg",
+                "ingredients": [
+                    "vegetable oil plus more for frying",
+                    "medium potatoes (300g), bring to a boil and cook until just done",
+                    "Handful of peas",
+                    "dried bay leaves, red chilli, cumin powder, turmeric powder and coriander powder ",
+                    "Salt to taste",
+                    "1 packet filo pastry or samosa strips"
+                ],
+                "method": [
+                    "Heat the oil in a non-stick saucepan. Add the bay leaves and chilli and cook for 20 seconds. Add the onion and ginger and cook for 2-3 minutes over a moderate flame. Add the peas and give the pan another stir. Add the spices and cook for 10 seconds.",
+                    "Add the crushed potatoes and stir well to coat in the spices. Cook for 2-3 mintues. Add the fresh coriander and taste; adjust seasoning, tartness with dried mango powder and add chilli to taste. Cool.",
+                    "Using a little melted butter to help, stick two pieces of the filo together and cut into strips crosswise. Place about a large tablespoonful of the the filling in the corner and roll up like a flag. Either bake in the oven for 15m on 200C or until golden or deep fry for 2 minutes or until golden all around. Drain well and serve with tangy herb chutney."
+                ],
+                "rating": "3"
+            },
+            {
+                "name": "Crispy Lentil Cakes",
+                "picture": "https://www.anjumanand.co.uk/Content/Uploads/CookBookImage/442179264_Crispy_Lentil_Cakes_Compressed.jpg",
+                "ingredients": [
+                    "1 packet The Spice Tailor Classic Tarka Daal",
+                    "red pepper",
+                    "fresh coriander, leaves and stalks",
+                    "Indian green finger chilli or to taste",
+                    "small spring onion",
+                    "2 large slices of bread, crumbed",
+                    "200g floury potato, cooked whole and peeled (microwave is best and quick)",
+                    "Vegetable oil to cook"
+                ],
+                "method": [
+                    "Finely chop the pepper, coriander, chilli and spring onions (mostly green part)",
+                    "Heat 1 tsp. oil in a medium sized saucepan, add the spices from packet; cook for 30 seconds. Add the contents from the remaining pouches. Simmer for 6-7 minutes or until the lentils have really thickened. Cool completely (this can be done the night before).",
+                    "When the potato is done, peel and mash with a fork, mix with the chopped bits, crumbs and thickened lentils",
+                    "Heat a good splash of oil in a large non-stick frying pan. Gently flatten the balls into discs and add to the pan; adding as many as you can. Cook over a medium flame until golden on both sides. Drain on kitchen roll as you make the next batch. You might need to wipe the pan between batches.",
+                    "Serve hot as they are, with a side salad, with coriander chutney and a herbed yoghurt dip"
+                ],
+                "rating": "3"
+            },
+            {
+                "name": "Cheese and Chutney Jaffle",
+                "picture": "https://www.anjumanand.co.uk/Content/Uploads/CookBookImage/1174904289_Cheese%20and%20Proper%20Chutney%20Jaffle%202.jpg",
+                "ingredients": [
+                    "fresh coriander, leaves and some stalks, washed",
+                    "lemon juice or to taste",
+                    "green chillies, seeded",
+                    "mint leaves, washed",
+                    "pistachios (you can shell roasted pistachios but weigh the nuts)",
+                    "Salt to taste",
+                    "water",
+                    "red onion, finely sliced",
+                    "good quality cheddar or other cheese",
+                    " mayonnaise",
+                    "tomato, sliced",
+                    "Soft butter",
+                    "Salt and freshly ground pepper",
+                    "8 slices sourdough or other bread."
+                ],
+                "method": [
+                    "Blend together coriander, lemon juice, green chillies, mint leaves and pistachios for the chutney, adding only one chilli to start with as the heat varies a lot from one batch to the next. Blend until very smooth and creamy; it might take a few minutes. Taste and adjust seasoning. Keep in a glass jar in the fridge or freeze until ready to use.",
+                    "Spread the butter on one side of each slice of bread and turn over.",
+                    "Spread 1 tbs. of the tangy coriander chutney on 4 of the slices of bread.",
+                    "Spread the mayo on the other four slices",
+                    "Arrange cheese, tomatoes and onion evenly over the top then finish with the other slice of bread, butter side up.",
+                    "Place in the jaffle maker. Cook until golden and serve hot.",
+                    "Put some tangy chutney into the jaffle and its ready to be served. "
+                ],
+                "rating": "4"
+            }
+        ]
     }
 ]
