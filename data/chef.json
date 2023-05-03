@@ -92,5 +92,264 @@
                 "rating": "4"
             }
         ]
+    },
+    {
+        "id": "2",
+        "category_id": "1",
+        "chef_photo": "https://assets.zeezest.com/images/PROD_Pastry-Chef-Pooja-Dhingra_e_1635943575458.jpg",
+        "chef_name": "Pooja Dhingra",
+        "experience": "5",
+        "likes": "250",
+        "bio": "Synonymous to all things scrumptious, founder and head chef at Le15 Patisserie, Pooja Dhingra knows how to make the headlines. The pandemic year knocked many out, but never to rest on her laurels, Dhingra emerged stronger and better, despite the pandemic shuttering her Le15 cafe. In the past year, she expanded her passion and launched her retail line featuring DIY cake mixes, cookies, hot chocolate mix, and Le 15 merch and took it to newer cities. She even started 'Talk Pastry To Me', an Instagram TV (IGTV) series where every week she meets a new chef or expert, learns something new and shares with her followers. Cut to 2021, she launched her fifth cookbook, 'Coming Home', which is a personal journal of recipes that she has perfected over the last year.",
+        "recipes": [
+            {
+                "name": "Hazelnut Kulfi",
+                "picture": "https://assets.zeezest.com/images/PROD_Chikoo-Hazelnut-Kulfi-from-_1635938539686.jpg",
+                "ingredients": [
+                    "Milk",
+                    "Sugar",
+                    "Hazelnuts, roasted and chopped",
+                    "Vanilla Extract",
+                    "Chikoo Pulp"
+                ],
+                "method": [
+                    "In a saucepan, start heating milk on a low flame.",
+                    "Add castor sugar and continue to whisk the milk until it is reduced to half. This takes about 20 minutes. Ensure that the flame is low and you don’t stop whisking! ",
+                    "Let the reduced milk cool, and then whisk in the chikoo pulp. Mix well to incorporate.",
+                    "Fill kulfi moulds with this mixture and freeze for 6 to 7 hours, or overnight.",
+                    "When you are ready to serve, spread the hazelnuts on a tray.",
+                    "Demould each kulfi carefully and immediately roll it on the tray to coat with hazelnuts.",
+                    "Serve chilled"
+                ],
+                "rating": "5"
+            },
+            {
+                "name": "Pecan Brownie",
+                "picture": "https://assets.zeezest.com/images/PROD_Pecan-Brownies-from-Pooja-D_1635938468770.jpg",
+                "ingredients": [
+                    " Dark chocolate, chopped",
+                    "flour",
+                    "butter",
+                    "Pecans",
+                    "eggs",
+                    "brown sugar",
+                    "baking powder",
+                    "salt, a pinch"
+                ],
+                "method": [
+                    "Preheat the oven to 165°C.",
+                    "Line a 7-inch square baking mould with parchment paper.",
+                    "Mix dark chocolate and butter in a bowl, and either melt them over a double boiler or in the microwave.",
+                    "Add brown sugar to the melted chocolate. Add eggs, one at a time, whisking well after each addition.",
+                    "Measure flour, sea salt and baking powder into a bowl",
+                    "Fold in dry ingredients with the wet ingredients. Add the pecans.",
+                    "Pour the batter into the baking mould. Garnish with the pecans set aside for this.",
+                    "Bake for 25 to 30 minutes.",
+                    "Let it cool down completely before unmoulding the brownie.",
+                    "Once cool, cut into squares."
+                ],
+                "rating": "4"
+            },
+            {
+                "name": "Lemon Cookie",
+                "picture": "https://assets.zeezest.com/images/PROD_Lemon-Chilli-Cookies-from-P_1635938440000.jpg",
+                "ingredients": [
+                    "Flour",
+                    "Cold butter,cubed",
+                    "Icing Sugar",
+                    "Lemon Juice",
+                    "Salt, a pinch"
+                ],
+                "method": [
+                    "In a bowl, mix flour and sugar. Add cold butter cubes and use your fingertips to blend everything.",
+                    "Add the lemon juice to the dough and mix well",
+                    "Chill the dough for 20 minutes.",
+                    "Preheat the oven to 165°C and line a baking tray with parchment paper.",
+                    "Roll out the dough between sheets of parchment paper to a 5-mm thickness.",
+                    "Cut into rounds with a 3-cm cookie cutter, and place on the tray lined with parchment paper.",
+                    "Bake for 8-10 minutes or till golden brown."
+                ],
+                "rating": "3"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "category_id": "2",
+        "chef_photo": "https://global-uploads.webflow.com/61154a627733993096a9a3af/618ae06883ad82a13f292916_dl.png",
+        "chef_name": "Sanjeev Kapoor",
+        "experience": "20",
+        "likes": "400",
+        "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur and television personality. Kapoor hosted the TV show Khana Khazana, the longest running show of its kind in Asia which was broadcast in 120 countries and in 2010 had more than 500 million viewers. He is also the first chef in the world to own a 24X7 food and lifestyle channel, Food Food which was launched in January 2011",
+        "recipes": [
+            {
+                "name": "Chicken Biryani",
+                "picture": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani-750x750.jpg",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Basmati rice",
+                    "Oil",
+                    "Cinnamon, Bay leaves, Cloves, Cumin Seeds",
+                    "Onions Sliced, green chillies, turmeric powder, red chilli powder",
+                    "tomatoes chopped",
+                    "ginger & garlic paste",
+                    "thick yogurt",
+                    "garam masala",
+                    "milk",
+                    "salt"
+                ],
+                "method": [
+                    "Cut chicken in one inch pieces. Boil rice and set aside. Heat oil in a non-stick pan, add cinnamon, bay leaves, cloves, cumin seeds, green cardamoms and sauté for half a minute",
+                    "Add sliced onions and saute. Add slit green chillies and chicken cubes and continue to saute. Add turmeric powder and mix. Add tomatoes and salt and mix. Add ginger-garlic paste, red chilli powder and yogurt. Mix well.",
+                    "Add half the fried brown onions. Add the boiled rice on top. Sprinkle garam masala powder. Sprinkle milk and remaining browned onions",
+                    "Cover and cook on low heat for about ten minutes. Garnish with the egg slices and serve hot."
+                ],
+                "rating": "5"
+            },
+            {
+                "name": "Butter Chicken",
+                "picture": "https://www.cookingclassy.com/wp-content/uploads/2021/01/butter-chicken-4.jpg",
+                "ingredients": [
+                    "Bonesless Chicken",
+                    "Lemon Juice",
+                    "Kashmiri Red Chili",
+                    "Butter",
+                    "Yogurt",
+                    "Ginger & Garlic Paste",
+                    "Garam Masala",
+                    "salt",
+                    "Mustard Oil",
+                    "green cardamom, clove, cinnamon",
+                    "tomato puree",
+                    "Kasoori methi",
+                    "Fresh Cream"
+                ],
+                "method": [
+                    "Apply a mixture of red chilli powder, lemon juice and salt to the chicken pieces and set aside for half an hour in the refrigerator.",
+                    "Hang the yogurt in a muslin cloth for fifteen to twenty minutes to remove extra water. Add the ginger and garlic pastes, red chilli and garam masala powders, salt and mustard oil.",
+                    "Apply this marinade to the chicken pieces and place them in the refrigerator for three to four hours",
+                    "Preheat the oven to 200°C/400°F/Gas Mark 6. String the chicken pieces onto skewers and cook in the preheated oven or a moderately hot tandoor for ten to twelve minutes or until almost done",
+                    "To make the makhni gravy, heat the butter in a non-stick pan. Add the green cardamoms, cloves, peppercorns and cinnamon",
+                    "Sauté for two minutes, add the ginger and garlic pastes and sauté for two minutes. Add the tomato puree, red chilli powder, salt and half cup of water.",
+                    "Bring the mixture to a boil. Reduce the heat and simmer for ten minutes. Add the sugar or honey and powdered kasoori methi",
+                    "Add the cooked tandoori chicken pieces. Simmer for five minutes and add the fresh cream. Serve hot with naan or parantha."
+                ],
+                "rating": "5"
+            },
+            {
+                "name": "Tandoori Chicken",
+                "picture": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg",
+                "ingredients": [
+                    "Whole Chicken",
+                    "Kashmiri Chilli",
+                    "Lemon Juice",
+                    "Salt to taste",
+                    "Yogurt",
+                    "Ginger & Garlic Paste",
+                    "Garam Masala",
+                    "Olive Oil",
+                    "Onion ring & lemon wedges to garnish"
+                ],
+                "method": [
+                    "Apply a mixture one teaspoon Kashmiri red chilli powder, one tablespoon lemon juice and salt over the chicken and set aside for half an hour",
+                    "For the marinade, tie up yogurt in a piece of muslin and hang over a bowl for fifteen to twenty minutes.",
+                    "Remove the thick yogurt into a bowl. Add the remaining Kashmiri red chilli powder, salt, ginger paste, garlic paste, remaining lemon juice, garam masala powder and two tablespoons olive oil",
+                    "Rub this mixture over the chicken and marinate for three to four hours in a refrigerator",
+                    "Thread the chicken onto a skewer and cook in a moderately hot tandoor (clay oven) or in a preheated oven at 200°C/400°F/Gas Mark 6 for ten to twelve minutes, or until almost done",
+                    "Apply a little oil to the chicken and cook for another four minutes. Remove and set aside.",
+                    "Serve with onion rings and lemon wedges."
+                ],
+                "rating": "4"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "category_id": "3",
+        "chef_photo": "https://emirateswoman.com/wp-content/uploads/2015/05/EW-Vikas-Khanna-K.jpg",
+        "chef_name": "Vikas Khanna",
+        "experience": "15",
+        "likes": "500",
+        "bio": "Vikas Khanna is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India. Khanna had worked at Salaam Bombay and The Café at the Rubin Museum of Art in New York before he joined Junoon, an upscale Indian restaurant in Flatiron district of Manhattan. Junoon received a favorable review from Sam Sifton in The New York Times in its inaugural year and was awarded a Michelin star by the Michelin Guide for six consecutive years since 2011 ",
+        "recipes": [
+            {
+                "name": "Pav Bhaji",
+                "picture": "https://cookingwithsjdotcom1.files.wordpress.com/2013/04/b0cdf-img_5283.jpg?w=600&h=410",
+                "ingredients": [
+                    "Pav (buns)",
+                    "potatoes, green peas, cabbage, cauliflower, tomatoes",
+                    "Oil",
+                    "Onion",
+                    "Onions Sliced, green chillies, turmeric powder, red chilli powder",
+                    "tomatoes chopped",
+                    "ginger & garlic paste",
+                    "Pav Bhaji Masala",
+                    "cumin seeds",
+                    "garam masala",
+                    "lemon juice",
+                    "butter",
+                    "salt"
+                ],
+                "method": [
+                    "Cut potatoes, cabbage, cauliflower and pressure-cook them for 3 whistles.",
+                    "Take butter in a deep kadai. Add cumin seeds and let it crackle.",
+                    "Add chopped onions with ginger-garlic paste and saute it till onions are golden brown.",
+                    " Add chopped tomatoes and all the masalas in kadai and cook it for more 2-3 mins.",
+                    " Mash pressure-cooked veggies into it and mash them roughly. ",
+                    "Pour some water if required to form a medium-thick gravy.",
+                    "Garnish with chopped coriander (optional) and serve hot with butter-roasted pav, chopped onions & lemon slice."
+                ],
+                "rating": "5"
+            },
+            {
+                "name": "Vada Pav",
+                "picture": "https://farm8.staticflickr.com/7378/16200176677_735f0c7dac_z.jpg",
+                "ingredients": [
+                    "Boiled Big potato",
+                    "Green chillies, cumin seeds,",
+                    "lemon juice",
+                    "turmeric & chilli powder",
+                    "salt, as needed",
+                    "coriander & mint leaves for chutney",
+                    "garlic cloves",
+                    "Pav (Buns)",
+                    "Butter - as needed"
+                ],
+                "method": [
+                    "Wash & pressure cook potatoes. Peel the skin and mash it well. Set aside. Now take the mashed potatoes & add finely chopped green chillies, turmeric powder, salt, coriander leaves and ginger garlic paste. Mix well.",
+                    "grind the ingredients for “Green chutney” and keep aside.",
+                    "Now heat oil in a pan and splutter mustard seeds & curry leaves. Add the mashed potato mixture & mix well until everything comes together as a mass. Remove & let it cool. Then make golf sized balls and keep it ready. U can make it flat or round balls.",
+                    "Now prepare the batter by mixing all the ingredients in a bowl. Mix well and dip the potato balls.",
+                    "Heat oil and put a pinch of batter for testing the heating point of oil. If the batter rises up immediately, heat is just right. Simmer the flame & drop the bonda in batches, cook them both the sides. Remove & drain the oil. While you deep fry the bondas, you may get some tail portions, collect them together, crush it using your hands and mix with dry garlic chutney. They are nothing but besan crumbs. But this step is completely optional. If you don't want to follow this,just remove them and have it as such. It tastes super crispy.",
+                    "Take the pav buns and slit it like an open book using a knife.",
+                    "Now heat the dosa pan and add 2 tbsp of butter.Sprinkle some dry garlic chutney powder and place the pav buns over the chutney powder.Grease it well in the inner part.",
+                    "Take the roasted buns and sprinkle some more garlic chutney powder if needed. Then apply green chutney on one side of pav and place the batata vada. Cover it and serve immediately with fried green chillies on side"
+                ],
+                "rating": "5"
+            },
+            {
+                "name": "Pani Puri",
+                "picture": "https://static.toiimg.com/thumb/61048461.cms?width=1200&height=900",
+                "ingredients": [
+                    "White peas",
+                    "salt",
+                    "turmeric powder",
+                    "potatoes",
+                    "green chilli",
+                    "black salt",
+                    "chat masala",
+                    "cumin seeds, roasted cumin powder",
+                    "Onion ring & lemon wedges to garnish",
+                    "tarmarind for chutney"
+                ],
+                "method": [
+                    "Wash and drain the soaked white peas, add salt, turmeric powder, 1 cup water and cook them in a presser cooker for 3-4 whistle. Allow to cool cooker, then remove boiled white peas from cooker and keep aside.",
+                    "Boil potatoes till cooked completely, then peel it and mash them coarsely, keep aside.",
+                    "Crack the top of the Puri with thumb or spoon.",
+                    "Add some mashed potatoes, onion, boiled white peas, stuffing in the Puri, add sweet tamarind chutney"
+                ],
+                "rating": "3"
+            }
+        ]
     }
 ]
